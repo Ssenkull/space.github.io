@@ -314,6 +314,9 @@
         text-align: center;
         padding-bottom: 100px;
     }
+    .contacts{
+        display: none;
+    }
 }
 
 @media(max-width:480px) {
